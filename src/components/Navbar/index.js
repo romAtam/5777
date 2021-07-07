@@ -113,7 +113,7 @@ const Navbar = ({ toggle }) => {
               </NavItem> */}
             </NavMenu>
             <NavBtn>
-              <NavBtnLink to="/signin"> Log in</NavBtnLink>
+              <NavBtnLink to="/chat"> chat</NavBtnLink>
             </NavBtn>
           </NavbarContainer>
         </Nav>

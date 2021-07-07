@@ -1,11 +1,12 @@
 import React from "react";
 import ScrollToTop from "../components/ScrollToTop";
-import Signin from "../components/Signin/";
+// import Signin from "../components/Signin/";
+import Chat from "../components/Chat/Chat";
 const SigninPage = () => {
   return (
     <>
-      <ScrollToTop />
-      <Signin />
+      <ScrollToTop /> <Chat />
+      {/* <Signin /> */}
     </>
   );
 };
